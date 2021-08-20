@@ -1,0 +1,22 @@
+{
+  "name": "forcehosting-api",
+  "version": "1.0.0",
+  "description": "support for the forcehosting api",
+  "main": "api.js",
+  "scripts": {
+    "test": "node api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nagol12344/force-hosting-api-node.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "nagol12344",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nagol12344/force-hosting-api-node/issues"
+  },
+  "homepage": "https://github.com/Nagol12344/force-hosting-api-node#readme"
+}
