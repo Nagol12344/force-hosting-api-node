@@ -1,3 +1,10 @@
+/* start of file
+ Github: https://github.com/Nagol12344/force-hosting-api-node
+ Project maintainers: Nagol12344
+ Npm: https://www.npmjs.com/package/force-api
+ Docs: https://nagol12344.gitbook.io/force-node-js-api/
+ the api was deleted, this will not work anymore
+*/
 function forceram(userid, key) {
 const https = require('https')
 const options = {
