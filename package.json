@@ -1,5 +1,5 @@
 {
-  "name": "forcehosting-api",
+  "name": "force-api",
   "version": "1.0.0",
   "description": "support for the forcehosting api",
   "main": "api.js",
