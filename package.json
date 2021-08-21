@@ -1,6 +1,6 @@
 {
   "name": "force-api",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "support for the forcehosting api",
   "main": "api.js",
   "scripts": {

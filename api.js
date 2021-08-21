@@ -22,7 +22,7 @@ req.on('error', error => {
 
 req.end()
 }
-exports.ramcheck = forceram
+exports.ramcheck = forceram()
 
 
 
