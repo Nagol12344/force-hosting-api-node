@@ -22,7 +22,7 @@ req.on('error', error => {
 
 req.end()
 }
-module.exports = forceram
-console.log(forceram('722173687553458209'))
+exports.ramcheck = forceram
+
 
 
