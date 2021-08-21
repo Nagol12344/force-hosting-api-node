@@ -104,3 +104,6 @@ function forcecpu(userid, key) {
       req.end()
       }
       exports.slotcheck = forceslots
+      exports.api = function api() {
+       console.log('Dont use this') 
+      }
